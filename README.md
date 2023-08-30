@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Oluwafemi2000/Testimonial-html-css)
+- Live Site URL: [Add live site URL here](https://oluwafemi2000.github.io/Testimonial-html-css/)
 
 ## My process
 1 Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this
@@ -109,9 +109,9 @@ I plan to continue learning more concept of grid and layout
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Omolola Oluwafemi](https://github.com/Oluwafemi2000)
+- Frontend Mentor - [@oluwafemi2000](https://www.frontendmentor.io/profile/Oluwafemi2000)
+- Twitter - [@shark_whales](https://www.twitter.com/shark_whales)
 
 
 
