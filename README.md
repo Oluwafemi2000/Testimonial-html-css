@@ -16,8 +16,6 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 The challenge was designed to build a testimonial page in which i made use of HTML and CSS
 
